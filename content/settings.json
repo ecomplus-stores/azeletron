@@ -1,7 +1,7 @@
 {
   "domain": "azeletron.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#666666",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
@@ -10,17 +10,17 @@
   "repository": "ecomplus-stores/azeletron",
   "logo": "/img/uploads/logo-azeletron-novo.png",
   "name": "azeletron",
-  "short_name": "azeletron",
+  "short_name": "AZEletron.net",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#db106e",
   "icon": "/img/icon.png",
   "store_id": 43710,
-  "description": "azeletron",
-  "large_icon": "/img/large-icon.png"
+  "description": "teste teste teste teste teste teste teste teste",
+  "large_icon": "/img/uploads/logo-azeletron-novo.png"
 }
