@@ -21,23 +21,8 @@
       "enabled": true
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
-    },
-    {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62424fdc2e405e04ff0671ff:categories:IPTV:/iptv/"
     }
   ]
 }
