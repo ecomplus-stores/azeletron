@@ -30,8 +30,12 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tarja-aviso-navifree.png"
+    },
+    {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
@@ -50,10 +54,6 @@
       "page": 2,
       "collection_id": "62424fdd2e405e04ff067204:categories:Receptor:/receptor/",
       "link": "testetet"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/tarja-aviso-navifree.png"
     }
   ]
 }
