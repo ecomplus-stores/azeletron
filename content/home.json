@@ -39,7 +39,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": "62424fd92e405e04ff0671f5:categories:Isdb-t :/isdbt/",
       "sort": "views",
       "title": "",
