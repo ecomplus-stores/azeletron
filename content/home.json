@@ -35,18 +35,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
+      "shuffle": false,
+      "collection_id": "62424fd92e405e04ff0671f5:categories:Isdb-t :/isdbt/",
+      "sort": "views",
       "title": "",
       "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "limit": 8,
+      "page": 2
     },
     {
       "type": "collection-shelf",
