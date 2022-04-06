@@ -4,13 +4,8 @@
     "link": "/promotion"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "TESTE DA PAGINA ",
-        "link": "TESTE DA PAGINA"
-      }
-    ],
-    "phone_wpp": true,
+    "pages": [],
+    "phone_wpp": false,
     "socials": false
   },
   "categories_list": {
