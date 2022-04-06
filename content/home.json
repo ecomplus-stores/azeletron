@@ -46,7 +46,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 13,
+      "limit": 8,
       "page": 2,
       "collection_id": "62424fdd2e405e04ff067204:categories:Receptor:/receptor/",
       "link": "testetet"
