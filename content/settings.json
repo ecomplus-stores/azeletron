@@ -6,7 +6,7 @@
     "bootswatch": "cerulean",
     "custom": "clean-white"
   },
-  "bg_color": "#dd2200",
+  "bg_color": "#00549a",
   "repository": "ecomplus-stores/azeletron",
   "logo": "/img/uploads/logo-azeletron-novo.png",
   "name": "AZEletron",
@@ -21,6 +21,6 @@
   "secondary_color": "#888888",
   "icon": "/img/icon.png",
   "store_id": 43710,
-  "description": "teste teste teste teste teste teste teste teste",
+  "description": "Os melhores APARELHOS e as marcas mais buscadas você encontra aqui, site 100% RESPONSIVE. Receba em casa com toda garantia e tranquilidade na AZEletron ! ",
   "large_icon": "/img/uploads/logo-azeletron-novo.png"
 }
