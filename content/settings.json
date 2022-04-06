@@ -6,7 +6,7 @@
     "bootswatch": "cerulean",
     "custom": "clean-white"
   },
-  "bg_color": "#d20b1a",
+  "bg_color": "#dd2200",
   "repository": "ecomplus-stores/azeletron",
   "logo": "/img/uploads/logo-azeletron-novo.png",
   "name": "AZEletron",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#00549a",
   "icon": "/img/icon.png",
   "store_id": 43710,
   "description": "teste teste teste teste teste teste teste teste",
