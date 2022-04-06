@@ -4,7 +4,12 @@
     "link": "/promotion"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "TESTE DA PAGINA ",
+        "link": "TESTE DA PAGINA"
+      }
+    ],
     "phone_wpp": true,
     "socials": false
   },
@@ -14,5 +19,5 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": false
+  "search_input": true
 }
