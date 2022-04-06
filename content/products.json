@@ -27,6 +27,11 @@
     {
       "type": "related-products",
       "title": "# Produtos relacionados"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     }
   ]
 }
