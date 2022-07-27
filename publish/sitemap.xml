@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://azeletron.netlify.app/satelite/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://azeletron.netlify.app/isdbt/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://azeletron.netlify.app/tvbox/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://azeletron.netlify.app/iptv/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://azeletron.netlify.app/receptor/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://azeletron.netlify.app/acessorios/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://azeletron.netlify.app/alphasat-wow</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -527,42 +563,6 @@
       <loc>https://azeletron.netlify.app/duosat-trend-s-hd-lancamento-acm-wifi</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://azeletron.netlify.app/satelite/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://azeletron.netlify.app/isdbt/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://azeletron.netlify.app/tvbox/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://azeletron.netlify.app/iptv/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://azeletron.netlify.app/receptor/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://azeletron.netlify.app/acessorios/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
